@@ -4,48 +4,51 @@
   <title>Bo-taoshi</title>
   <meta charset="UTF-8">
   <style>
-    
     body{
       background-color:#AA0000;
       color:white;
     }
     
     h1{
-      background-color:#990000;
+      background-color:#910000;
       text-align:center;
     }
-    
-    nav{
-      float:right;
-      width:15%;
-      height:100%;
-    }
-    
     article{
       border-radius:10px;
       background-color:white;
       color:#AA0000;
-      width:50%;
-      height:500px;
-    }
+      font-size:larger;
+      padding: 0.5%;
+      width: 50%;
+    } 
+
+nav{
+background-image: url("clouds.png"); background-size: 60pc;
+}
   </style>
 </head>
 <body>
-  <h1>Rules</h1>
-  <nav>    
-      <div class="link">
-      <a href="Botaoshi.html" title="Jump to Main Page">Home</a>
-    </div>
-    <div class="link">
-      <a href="BotaoshiHistory.html" title="Jump to History">History</a>
-    </div>
+  <h1>Bo-Taoshi</h1>
+  <nav> 
 
-    <div class="link">
-       <a href="BotaoshiPositions.html" title="Jump to Positions">Positions</a>
-    </div>
-    <div class="link">
-        <a href="BotaoshiSafety.html" title="Jump to Safety">Safety</a>
-    </div>
+    <span class="link">
+      <a href="Botaoshi.html"> <img style="border:5px solid black;" src="homewideraw1.png" title="Jump to Main Page" width="10%" height="20%"></a>
+    </span>
+    <span class="link">
+      <a href="Botaoshihistory.html"> <img style="border:5px solid black;" src="historyraw1.png" title="Jump to History" width="5%" height="10%"></a>
+    </span> 
+    <span class="link">
+      <a href="BotaoshiRules.html"> <img style="border:5px solid black;" src="rulesraw1.png" title="Jump to Rules" width="5%" height="10%"></a>
+    </span>
+    <span class="link">
+       <a href="BotaoshiPositions.html"> <img style="border:5px solid black;" src="positionsraw1.png" title="Jump to Positions" width="5%" height="10%"></a>
+    </span>
+    <span class="link">
+        <a href="BotaoshiSafety.html"> <img style="border:5px solid black;" src="safetyraw1.png" title="Jump to Safety" width="5%" height="10%"></a>
+    </span>
+    <span class="link">
+      <a href="BotaoshiEvent.html"> <img style="border:5px solid black;" src="eventsraw1.png" title="Jump to Events" width="5%" height="10%"></a>
+    </span>
   </nav>
   <article>
     The game is played by two teams of 150 players per team with the goal of toppling each other’s pole past 30° or have the tip of the pole 140cm off the ground within a certain time frame depending on the ruleset (90seconds, 2minutes or 5 minutes). 
