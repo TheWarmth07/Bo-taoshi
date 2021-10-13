@@ -22,7 +22,6 @@
       width: 50%;
     } 
 
-}
 nav{
 background-image: url("clouds.png"); background-size: 60pc;
 }
