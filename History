@@ -27,6 +27,7 @@
       color:#AA0000;
       width:50%;
       height:500px;
+      font-size: large;
     }
   </style>
 </head>
