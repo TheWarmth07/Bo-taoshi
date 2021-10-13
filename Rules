@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bo-taoshi</title>
+  <meta lang="en">
+  <meta charset="UTF-8">
+  <style>
+    
+    body{
+      background-color:#AA0000;
+      color:white;
+    }
+    
+    h1{
+      background-color:#990000;
+      text-align:center;
+    }
+    
+    nav{
+      float:right;
+      width:15%;
+      height:100%;
+    }
+    
+    article{
+      border-radius:10px;
+      background-color:white;
+      color:#AA0000;
+      width:50%;
+      height:500px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Rules</h1>
+  <nav>    
+      <div class="link">
+      <a href="Botaoshi.html" title="Jump to Main Page">Home</a>
+    </div>
+    <div class="link">
+      <a href="BotaoshiHistory.html" title="Jump to History">History</a>
+    </div>
+
+    <div class="link">
+       <a href="BotaoshiPositions.html" title="Jump to Positions">Positions</a>
+    </div>
+    <div class="link">
+        <a href="BotaoshiSafety.html" title="Jump to Safety">Safety</a>
+    </div>
+  </nav>
+  <article>
+    The game is played by two teams of 150 players per team with the goal of toppling each other’s pole past 30° or have the tip of the pole 140cm off the ground within a certain time frame depending on the ruleset (90seconds, 2minutes or 5 minutes). 
+One team of 150 players are divided into offensive and defensive teams. Then, the positions of the offensive team and the defensive team are further divided according to the characteristics of the players, and each part acts systematically based on the assigned mission. Each battalion has a different strategy, and accordingly, different job titles and different behavior patterns.
+  </article>
+</body>
+</html>
