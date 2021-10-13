@@ -14,43 +14,41 @@
       text-align:center;
     }
     article{
-      border-radius:10px;
+      border-radius:5px;
       background-color:white;
       color:#AA0000;
       font-size:larger;
       padding: 0.5%;
       width: 50%;
     } 
-
 nav{
-background-image: url("clouds.png"); background-size: 60pc;
+
+background-image: url("clouds.png"); background-size: 60%; background-repeat:repeat-x;
 }
+
   </style>
 </head>
 <body>
   <h1>Bo-Taoshi</h1>
-  <nav> 
-
+  <nav style="text-align: center;">
     <span class="link">
-      <a href="Botaoshi.html"> <img style="border:5px solid black;" src="homewideraw1.png" title="Jump to Main Page" width="10%" height="20%"></a>
+      <a href="Botaoshi.html"> <img style="border:2px solid black; border-radius: 10px;" src="homewideraw1.png" title="Jump to Main Page" width="10%" height="20%"></a>
     </span>
     <span class="link">
-      <a href="BotaoshiEvent.html"> <img style="border:5px solid black;" src="eventsraw1.png" title="Jump to Events" width="5%" height="10%"></a>
-    </span>
-    <span class="link">
-      <a href="BotaoshiRules.html"> <img style="border:5px solid black;" src="rulesraw1.png" title="Jump to Rules" width="5%" height="10%"></a>
-    </span>
-    <span class="link">
-       <a href="BotaoshiPositions.html"> <img style="border:5px solid black;" src="positionsraw1.png" title="Jump to Positions" width="5%" height="10%"></a>
-    </span>
-    <span class="link">
-        <a href="BotaoshiSafety.html"> <img style="border:5px solid black;" src="safetyraw1.png" title="Jump to Safety" width="5%" height="10%"></a>
-    </span>
-    <span class="link">
-      <a href="Botaoshihistory.html"> <img style="border:5px solid black;" src="historyraw1.png" title="Jump to History" width="5%" height="10%"></a>
-      
+      <a href="Botaoshihistory.html"> <img style="border:2px solid black; border-radius: 10px;" src="historyraw1.png" title="Jump to History" width="5%" height="10%"></a>
     </span> 
-
+    <span class="link">
+      <a href="BotaoshiRules.html"> <img style="border:2px solid black; border-radius: 10px;" src="rulesraw1.png" title="Jump to Rules" width="5%" height="10%"></a>
+    </span>
+    <span class="link">
+       <a href="BotaoshiPositions.html"> <img style="border:2px solid black; border-radius: 10px;" src="positionsraw1.png" title="Jump to Positions" width="5%" height="10%"></a>
+    </span>
+    <span class="link">
+        <a href="BotaoshiSafety.html"> <img style="border:2px solid black; border-radius: 10px;" src="safetyraw1.png" title="Jump to Safety" width="5%" height="10%"></a>
+    </span>
+    <span class="link">
+      <a href="BotaoshiEvent.html"> <img style="border:2px solid black; border-radius: 10px;" src="eventsraw1.png" title="Jump to Events" width="5%" height="10%"></a>
+    </span> 
   </nav>
 <article style="float:left;display="inline">
 <p>Japan is a place shrouded in tradition and mystery, and Bo-Taoshi is no exception.</p>
