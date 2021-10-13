@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bo-taoshi</title>
+  <meta lang="en">
+  <meta charset="UTF-8">
+  <style>
+    
+    body{
+      background-color:#AA0000;
+      color:white;
+    }
+    
+    h1{
+      background-color:#990000;
+      text-align:center;
+    }
+    
+    nav{
+      float:right;
+      width:15%;
+      height:100%;
+    }
+    
+    article{
+      border-radius:10px;
+      background-color:white;
+      color:#AA0000;
+      width:50%;
+      height:500px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bo-taoshi</h1>
+  <nav>
+    <div class="link">
+      <a href="BotaoshiHistory.html" title="Jump to History">History</a>
+    </div>
+    <div class="link">
+      <a href="BotaoshiRules.html" title="Jump to Rules">Rules</a>
+    </div>
+    <div>
+       <a href="BotaoshiPositions.html" title="Jump to Positions">Positions</a>
+    </div>
+  </nav>
+  <article>
+    Lorem Ipsum random text insert Latin stuff here
+  </article>
+</body>
+</html>
