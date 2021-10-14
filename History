@@ -29,7 +29,7 @@ background-image: url("clouds.png"); background-size: 60%; background-repeat:rep
   </style>
 </head>
 <body>
-  <h1>Bo-Taoshi</h1>
+  <h1>History</h1>
   <nav style="text-align: center;">
     <span class="link">
       <a href="Botaoshi.html"> <img style="border:2px solid black; border-radius: 10px;" src="homewideraw1.png" title="Jump to Main Page" width="10%" height="20%"></a>
@@ -44,24 +44,30 @@ background-image: url("clouds.png"); background-size: 60%; background-repeat:rep
        <a href="BotaoshiPositions.html"> <img style="border:2px solid black; border-radius: 10px;" src="positionsraw1.png" title="Jump to Positions" width="5%" height="10%"></a>
     </span>
     <span class="link">
+      <a href="BotaoshiRequirements.html"> <img style="border:2px solid black; border-radius: 10px;" src="requirementsraw1.png" title="Jump to Positions" width="5%" height="10%"></a>
+    </span>
+    <span class="link">
         <a href="BotaoshiSafety.html"> <img style="border:2px solid black; border-radius: 10px;" src="safetyraw1.png" title="Jump to Safety" width="5%" height="10%"></a>
     </span>
     <span class="link">
       <a href="BotaoshiEvent.html"> <img style="border:2px solid black; border-radius: 10px;" src="eventsraw1.png" title="Jump to Events" width="5%" height="10%"></a>
     </span> 
+    <span class="link">
+      <a href="BotaoshiVideo.html"> <img style="border:2px solid black; border-radius: 10px;" src="videosraw1.png" title="Jump to Video" width="5%" height="10%"></a>
+    </span>
   </nav>
-<article style="float:left;display="inline">
-<p>Japan is a place shrouded in tradition and mystery, and Bo-Taoshi is no exception.</p>
-<p>The exact origins of the sport are still unknown to this day, some historians speculate that bo-taoshi originated from Japanese military training in the 1940's to bolster troop morale and prepare them for battle, while most agree that it was first played by cadets at Kagoshima Prefecture who then introduced it to the naval academy in Hiroshima Prefecture and is a combination of popular games in Japan in the 1810's such as the Sao Nobori(pole climbing), Hata Tori(capture the flag) and Tsuna Nobori Hata Tori(climbing a rope and grabbing a piece a cloth).</p> 
-<p>At its height of popularity, bo-taoshi was part of nearly every school's annual sporty day event. At Kaisei Gakuen, a prestigious secondary school founded in 1871, bo-taoshi remains a rite of passage and has been a part of the school's annual festival since 1929 to this day.</p>
-By the 1970-s and 1980's Bo-taoshi popularity started to wane, some attribute its decline to its militaristic history but mostly it was due to the violent nature of the game and parents pushing their children to focus on their studies and exams.
-</article>
-
-
-  <img src="bo-taoshibw.jpg" width="20%" height="20%" float="right" display="inline"> 
-
-<br>
-<img src="JPnavalacademy.jpg" style="float: right;" title="Japan naval academy" width="256" height="256"> 
-
-</body>
-</html>
+  <div>
+    <article style="float:left;display=inline-block;">
+      <p>Japan is a place shrouded in tradition and mystery, and Bo-Taoshi is no exception.</p>
+      <p>The exact origins of the sport are still unknown to this day, some historians speculate that bo-taoshi originated from Japanese military training in the 1940's to bolster troop morale and prepare them for battle, while most agree that it was first played by cadets at Kagoshima Prefecture who then introduced it to the naval academy in Hiroshima Prefecture</p>
+      <p>Bo-taoshi is a combination of popular games in Japan of the 1800's such as the Sao Nobori(pole climbing), Hata Tori(capture the flag) and Tsuna Nobori Hata Tori(climbing a rope and grabbing a piece a cloth).</p> 
+      <p>At its height of popularity, bo-taoshi was part of nearly every school's annual sporty day event. At Kaisei Gakuen, a prestigious secondary school founded in 1871, bo-taoshi remains a rite of passage and has been a part of the school's annual festival since 1929 to this day.</p>
+        By the 1970-s and 1980's Bo-taoshi popularity started to wane, some attribute its decline to its militaristic history but mostly it was due to the violent nature of the game and parents pushing their children to focus on their studies and exams.
+    </article>
+    <img src="bo-taoshibw.jpg" width="30%" height="30%" float="right" style="padding-left: 10%;">
+  </div>
+  </body>
+  <footer>
+   <img src="waves.png" width=100% height=50% >
+  </footer>
+  </html>
